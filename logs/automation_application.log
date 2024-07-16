@@ -1,0 +1,9 @@
+2024-07-16 13:49:10.873 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-16 13:49:12.777 [main] INFO  reusables.testingBase - Opening Browser !!!
+2024-07-16 13:49:17.577 [main] INFO  reusables.testingBase - Test Setup Done !!!
+2024-07-16 13:49:17.639 [main] INFO  pages.HomePage - Clicking on Account Button
+2024-07-16 13:49:18.855 [main] INFO  pages.AccountPage - Inserting username
+2024-07-16 13:49:19.015 [main] INFO  pages.AccountPage - Inserting password
+2024-07-16 13:49:19.189 [main] INFO  pages.AccountPage - Clicking on sign in button
+2024-07-16 13:49:23.296 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-16 13:49:23.746 [main] INFO  reusables.testingBase - Test Completed !!!
